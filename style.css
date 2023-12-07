@@ -61,7 +61,7 @@ a.active, a:hover{
     position: absolute; 
 }
 .background{
-    background-image: url(/scr/bck1.png);
+    background-image: url(./scr/bck1.png);
     background-size: cover;
     width: 100%;
     height: 70vh;
